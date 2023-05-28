@@ -1,7 +1,7 @@
-# Лабораторные работы по предмету ОС
-## Выполнил Касинский Никита
-[Лабработа 1](https://github.com/nikita-kasinski/os-lab-1) \
-[Лабработа 2](https://github.com/nikita-kasinski/os-lab-2) \
-[Лабработа 3](https://github.com/nikita-kasinski/os-lab-3) \
-[Лабработа 4](https://github.com/nikita-kasinski/os-lab-4) \
-[Лабработа 5](https://github.com/nikita-kasinski/os-lab-5)
+# OS Practice
+## Made by Nikita Kasinski
+[Task 1](https://github.com/nikita-kasinski/os-lab-1) \
+[Task 2](https://github.com/nikita-kasinski/os-lab-2) \
+[Task 3](https://github.com/nikita-kasinski/os-lab-3) \
+[Task 4](https://github.com/nikita-kasinski/os-lab-4) \
+[Task 5](https://github.com/nikita-kasinski/os-lab-5)
